@@ -1,4 +1,4 @@
 # tensorflow
-Satellite image for forecasting and predicting crops in the future
+Forecasting and predicting crops using LSTM of Satellite Images
 
 Modified : Vicko Pranowo
