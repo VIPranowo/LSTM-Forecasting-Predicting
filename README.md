@@ -34,6 +34,9 @@ Install requirement.txt to compute the coding without problem (Under development
 4. Keras 2.3.1
 5. Pandas 0.25.3
 
+Next development:
+Using Tensorflow 1.15 as suggested
+
 ## Result:
 The result will be seen as the following: 
 (Under development)
