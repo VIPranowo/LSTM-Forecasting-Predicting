@@ -45,16 +45,16 @@ Another proposed method by:
 (Thea Kirana proposed a method of linear regression and polynomial regression data crops)
 
 ## Thanks to:
-Jakob Aungiers (link: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
-Jason Brownlee (link: https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
-Python Tutorial (link: https://datatofish.com/export-dataframe-to-csv/)
+1. Jakob Aungiers (link: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
+2. Jason Brownlee (link: https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
+3. Python Tutorial (link: https://datatofish.com/export-dataframe-to-csv/)
 
 ## Modified by:
 Vicko Pranowo
 
 ## Supported by:
-Mr. Igi Ardiyanto (UGM AI Center)
-Thea Kirana
-Sudiro
+1. Mr. Igi Ardiyanto (UGM AI Center)
+2. Thea Kirana
+3. Sudiro
 
 
