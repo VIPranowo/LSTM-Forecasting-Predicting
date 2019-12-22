@@ -18,10 +18,10 @@ List of West Java Province:
 7. Sumedang
 8. Cianjur
 9. Subang
-10.Purwakarta
-11.Indramayu
-12.Ciamis
-13.Sukabumi
+10. Purwakarta
+11. Indramayu
+12. Ciamis
+13. Sukabumi
 14. Bogor
 15. Bekasi
 16. Karawang
