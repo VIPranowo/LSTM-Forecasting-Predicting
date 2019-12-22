@@ -34,12 +34,17 @@ Install requirement.txt to compute the coding without problem (Under development
 4. Keras 2.3.1
 5. Pandas 0.25.3
 
-Next development:
+## Next development:
 Using Tensorflow 1.15 as suggested
 
 ## Result:
 The result will be seen as the following: 
-(Under development)
+- The graphics show the prediction crops data of all entities in two provinces
+- The graphics show the following year or inadequate data of crops until the data shown year of 2020
+- The data can be shown in newTomato.csv and newMaize.csv , then visualized by Sudiro
+- Substract json data from Sudiro and Thea to manipulate data into LSTM method to predict and forecast the next step
+
+(Under development for the image result):
 
 The visualization will be depicted in this link of assignment 
 (Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data)
