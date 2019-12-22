@@ -37,6 +37,10 @@ Install requirement.txt to compute the coding without problem (Under development
 ## Next development:
 Using Tensorflow 1.15 as suggested
 
+## How to Run:
+- Get into the environment of python 3.7.x
+- python3.7 run.py
+
 ## Result:
 The result will be seen as the following: 
 - The graphics show the prediction crops data of all entities in two provinces
