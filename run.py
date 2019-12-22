@@ -73,6 +73,7 @@ def main():
     configs = json.load(open('configcrops.json', 'r'))
     if not os.path.exists(configs['model']['save_dir']): os.makedirs(configs['model']['save_dir'])
     
+    #filename1 can be changed into filename (see the configcrops.json)
     namaefile= configs['data']['filename1']
 
     with open(namaefile,'r') as dataframe:
