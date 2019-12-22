@@ -5,15 +5,17 @@ import pandas as pd
 class DataLoader():
     """A class for loading and transforming data for the lstm model"""
 
-    def __init__(self, filename, split, cols):
-        dataframe = pd.read_csv(filename)
-        i_split = int(len(dataframe) * split)
-        self.data_train = dataframe.get(cols).values[992:1010]
-        self.data_test  = dataframe.get(cols).values[992:1014]
+    def __init__(self, filename, split):
+        
+        i_split = int(len(filename) * split)
+        self.data_train = filename[:i_split]
+        self.data_test  = filename[:]
         self.len_train  = len(self.data_train)
         self.len_test   = len(self.data_test)
         self.len_train_windows = None
-        print(self.data_train)
+        # print(self.data_train)
+
+    # def split_data(self,)
 
     def get_test_data(self, seq_len, normalise):
         '''
@@ -44,6 +46,7 @@ class DataLoader():
             x, y = self._next_window(i, seq_len, normalise)
             data_x.append(x)
             data_y.append(y)
+        # print(len(data_x),len(data_y))
         return np.array(data_x), np.array(data_y)
 
     def generate_train_batch(self, seq_len, batch_size, normalise):
@@ -91,6 +94,6 @@ class DataLoader():
         return prediction_list
 
     def _groundtruths(self,num_forecast):
-        groundtruth=self.data_train
+        groundtruth=self.data_test
         groundtruth.ravel()
         return groundtruth
