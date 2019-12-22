@@ -28,11 +28,11 @@ List of West Java Province:
 
 ## Requirement:
 Install requirement.txt to compute the coding without problem (Under development):
-Python 3.7.2
-Matplotlib 3.1.2
-Pip 3.7
-Keras 2.3.1
-Pandas 0.25.3
+1. Python 3.7.2
+2. Matplotlib 3.1.2
+3. Pip 3.7
+4. Keras 2.3.1
+5. Pandas 0.25.3
 
 ## Result:
 The result will be seen as the following: 
