@@ -2,12 +2,16 @@
 
 {
 	"data": {
-		"filename": "Maize.csv",
+		"filename": "data/Maize.json",
+		"filename1": "data/Tomato.json",
+		"filenamecsv": "data/Maize.csv",
+		"newcsv":"data/newMaize.csv",
+		"newcsv1":"data/newTomato.csv",
 		"columns": [
-            " crop(tonnes per hectare)"
+            "Entity"
 		],
 		"sequence_length": 2,
-		"train_test_split": 0.7,
+		"train_test_split": 0.75,
 		"normalise": false
 	},
 	"training": {
