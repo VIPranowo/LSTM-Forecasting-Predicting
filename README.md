@@ -55,10 +55,10 @@ The result will be seen as the following:
 
 ## The plotting graphics result:
 1.Predicting versus Ground True Data<br/>
-![Screenshot from 2019-12-08 23-24-19](https://user-images.githubusercontent.com/33710222/71763879-ce490f00-2f13-11ea-88e3-700f63a42eec.png)
+![Screenshot from 2020-01-04 16-51-38](https://user-images.githubusercontent.com/33710222/71764016-2c2a2680-2f15-11ea-9f02-b70d70c9ad7b.png)
 
 2.Forecasting for the next 6 years (Combined with Ground True Data) </br>
-![Screenshot from 2020-01-04 16-51-38](https://user-images.githubusercontent.com/33710222/71764016-2c2a2680-2f15-11ea-9f02-b70d70c9ad7b.png)
+![WhatsApp Image 2020-01-02 at 16 26 05](https://user-images.githubusercontent.com/33710222/71764081-bb373e80-2f15-11ea-8d13-3ee52f0258ab.jpeg)
 
 The visualization will be depicted in this link of assignment 
 - Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data
