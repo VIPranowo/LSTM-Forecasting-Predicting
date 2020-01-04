@@ -49,6 +49,7 @@ The result will be seen as the following:
 - Substract json data from Sudiro and Thea to manipulate data into LSTM method to predict and forecast the next step
 
 (The plotting graphics result):
+![Screenshot from 2019-12-08 23-24-19](https://user-images.githubusercontent.com/33710222/71763879-ce490f00-2f13-11ea-88e3-700f63a42eec.png)
 
 
 The visualization will be depicted in this link of assignment 
