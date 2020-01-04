@@ -53,8 +53,11 @@ The result will be seen as the following:
 - Substract json data from Sudiro and Thea to manipulate data into LSTM method to predict and forecast the next step
 
 (The plotting graphics result):
+1.Predicting versus Ground True Data
 ![Screenshot from 2019-12-08 23-24-19](https://user-images.githubusercontent.com/33710222/71763879-ce490f00-2f13-11ea-88e3-700f63a42eec.png)
 
+2.Forecasting for the next 6 years (Combined with Ground True Data)
+![Screenshot from 2020-01-04 16-51-38](https://user-images.githubusercontent.com/33710222/71763993-f6853d80-2f14-11ea-8f64-45bfadce9ffb.png)
 
 The visualization will be depicted in this link of assignment 
 - Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data
