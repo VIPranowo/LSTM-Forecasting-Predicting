@@ -2,8 +2,9 @@
 
 .justify-text {
 	text-align: justify;
-}
+	
 The task is to predict the crops from 1961 until 2014 and to forecast the number of crops in the following year until 2020 using Machine Learning method of LSTM (Long Short Term Memory). On the other task, the data can be seen from data/Maize.json and data/Tomato.json not fully provided from the year 1961 to 2014. The crops are predicted for West Java Province and Special Region of Yogyakarta which consecutively the number of entities are 16 and 5.
+}
 
 List of Special Region of Yogyakarta:
 1. kulon progo
@@ -52,12 +53,12 @@ The result will be seen as the following:
 - The data can be shown in newTomato.csv and newMaize.csv , then visualized by Sudiro
 - Substract json data from Sudiro and Thea to manipulate data into LSTM method to predict and forecast the next step
 
-(The plotting graphics result):
+## The plotting graphics result:
 1.Predicting versus Ground True Data
 ![Screenshot from 2019-12-08 23-24-19](https://user-images.githubusercontent.com/33710222/71763879-ce490f00-2f13-11ea-88e3-700f63a42eec.png)
 
 2.Forecasting for the next 6 years (Combined with Ground True Data)
-![Screenshot from 2020-01-04 16-51-38](https://user-images.githubusercontent.com/33710222/71763993-f6853d80-2f14-11ea-8f64-45bfadce9ffb.png)
+![Screenshot from 2020-01-04 16-51-38](https://user-images.githubusercontent.com/33710222/71764016-2c2a2680-2f15-11ea-9f02-b70d70c9ad7b.png)
 
 The visualization will be depicted in this link of assignment 
 - Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data
