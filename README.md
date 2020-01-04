@@ -1,5 +1,5 @@
 # Forecasting and predicting Crops using LSTM (Long Short Term Memory)
-The task is to predict the crops from 1961 until 2014 and to forecast the number of crops in the following year until 2020 using Machine Learning method of LSTM (Long Short Term Memory). On the other task, the data can be seen from data/Maize.json and data/Tomato.json not fully provided from the year 1961 to 2014. The crops are predicted for West Java Province and Special Region of Yogyakarta which consecutively the number of entities are 16 and 5.
+The task is to predict the crops from 1961 until 2014 and to forecast the number of crops in the following year until 2020 using Machine Learning method of LSTM (Long Short Term Memory). On the other task, the data can be seen from data/Maize.json and data/Tomato.json not fully provided from the year 1961 to 2014. The crops are predicted for West Java Province and Special Region of Yogyakarta which consecutively the number of entities are 16 and 5. (text-align: justify)
 
 List of Special Region of Yogyakarta:
 1. kulon progo
