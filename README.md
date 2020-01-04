@@ -48,13 +48,14 @@ The result will be seen as the following:
 - The data can be shown in newTomato.csv and newMaize.csv , then visualized by Sudiro
 - Substract json data from Sudiro and Thea to manipulate data into LSTM method to predict and forecast the next step
 
-(Under development for the image result):
+(The plotting graphics result):
+
 
 The visualization will be depicted in this link of assignment 
-(Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data)
+- Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data
 
 Another proposed method by:
-(Thea Kirana proposed a method of linear regression and polynomial regression data crops)
+- Thea Kirana proposed a method of linear regression and polynomial regression data crops
 
 ## Thanks to:
 1. Jakob Aungiers (link: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
