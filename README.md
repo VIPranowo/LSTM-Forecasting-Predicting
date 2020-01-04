@@ -60,13 +60,16 @@ The result will be seen as the following:
 2.Forecasting for the next 6 years (Combined with Ground True Data) </br>
 ![WhatsApp Image 2020-01-02 at 16 26 05](https://user-images.githubusercontent.com/33710222/71764081-bb373e80-2f15-11ea-8d13-3ee52f0258ab.jpeg)
 
+## Data will be shown into csv:
+![WhatsApp Image 2020-01-02 at 16 27 21](https://user-images.githubusercontent.com/33710222/71764103-02bdca80-2f16-11ea-9ea9-86f81f7de9ba.jpeg)
+
 The visualization will be depicted in this link of assignment 
 - Sudiro, link: https://github.com/sudiroeen/Web-Based-Visualization-of-Agricultural-Data
 
 Another proposed method by:
 - Thea Kirana proposed a method of linear regression and polynomial regression data crops
 
-## Thanks to:
+## Reference:
 1. Jakob Aungiers (link: https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
 2. Jason Brownlee (link: https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 3. Python Tutorial (link: https://datatofish.com/export-dataframe-to-csv/)
@@ -74,7 +77,7 @@ Another proposed method by:
 ## Modified by:
 Vicko Pranowo
 
-## Supported by:
+## Special Thanks to:
 1. Mr. Igi Ardiyanto (UGM AI Center)
 2. Thea Kirana
 3. Sudiro
